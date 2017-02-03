@@ -7,15 +7,15 @@ e este projeto adere ao [Semantic Versioning](http://semver.org/).
 
 ## [0.1.0] - 2016-05-12
 ### Added
-- Método para o cálculo do percentual submerso (caso de elemento parcialmente 
-submerso).
-- Método para cálculo da força de fluido interno para análise de riser e
-mangote. Adicionalmente, foram realizadas melhorias no cálculo dos 
-coeficientes do polinômio de Hermite.
-- Criação de classes para calcular os esforços provenientes do efeito de onda
-sobre a linha.
-- Consideração da aproximação de Wheeler para avaliar a velocidade de 
-correnteza acima do nível médio da água do mar.
+* Método para o cálculo do percentual submerso (caso de elemento parcialmente 
+  submerso).
+* Método para cálculo da força de fluido interno para análise de riser e
+  mangote. Adicionalmente, foram realizadas melhorias no cálculo dos 
+  coeficientes do polinômio de Hermite.
+* Criação de classes para calcular os esforços provenientes do efeito de onda
+  sobre a linha.
+* Consideração da aproximação de Wheeler para avaliar a velocidade de 
+  correnteza acima do nível médio da água do mar.
 
 ### Changed
 - Modificação do método de cálculo da cinemática da onda para considerar uma
@@ -56,3 +56,5 @@ comprimento da linha).
 ### Fixed
 - Correções no método de cálculo da força de atrito para deixar compatível
 com a formulação presente no OrcaFlex.
+
+[0.1.0]: https://github.com/fmgferreira/teste2/compare/v0.1.0...HEAD
