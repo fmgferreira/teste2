@@ -5,7 +5,7 @@ Este formato é baseado no [Keep a Changelog](http://keepachangelog.com/)
 e este projeto adere ao [Semantic Versioning](http://semver.org/).
 
 
-## [2.0.0] - 2016-05-12
+## [0.1.0] - 2016-05-12
 ### Added
 - Método para o cálculo do percentual submerso (caso de elemento parcialmente 
 submerso).
