@@ -1,6 +1,8 @@
 # Change Log
 Todas as principais alterações deste projeto serão documentadas neste arquivo.
 
+ASasASasSasASas
+
 Este formato é baseado no [Keep a Changelog](http://keepachangelog.com/)
 e este projeto adere ao [Semantic Versioning](http://semver.org/).
 
